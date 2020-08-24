@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-<script type="text/javascript">
+<style type="text/css">
 code .sourceCode {
     white-space: pre-wrap;       /* Since CSS 2.1 */
     white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
@@ -10,7 +10,7 @@ code .sourceCode {
     word-wrap: break-word;       /* Internet Explorer 5.5+ */
     overflow-wrap: break-word;
 }
-</script>
+</style>
 
 # R Class
 
