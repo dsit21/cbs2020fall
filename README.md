@@ -14,7 +14,9 @@ code .sourceCode {
 
 # R Class
 
-This is an empty repo to initialize an R project for class at by
+This is an empty repo to initialize an R project for [Introduction to
+Programming in
+R](https://www8.gsb.columbia.edu/courses/mba/2020/fall/b8144-001) at
 [Columbia Business
 School](https://www8.gsb.columbia.edu/courses/mba/2020/fall/b8144-001).
 
